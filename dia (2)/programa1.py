@@ -1,0 +1,12 @@
+print (1+5)
+print (1+5.0*3)
+print (5.5*2)
+print (9/3)
+print (True)
+print (False)
+print ("Python")
+
+int ()
+float ()
+str ()
+bool ()
